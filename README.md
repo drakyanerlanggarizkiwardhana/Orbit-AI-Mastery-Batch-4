@@ -5,6 +5,7 @@
 ![ilham](https://user-images.githubusercontent.com/85488433/227623019-bcfc15e8-81ab-401e-9c6a-c37d4b832934.png)
 
 
+
 Orbit Future Academy didirikan untuk meningkatkan kualitas hidup melalui inovasi, pendidikan, dan keterampilan pelatihan.
 
 Merek Orbit merupakan kelanjutan dari warisan almarhum Dr. Hasri Ainun Habibie dan Prof. Dr. Ing. BJ Habibie , presiden ketiga Republik Indonesia. Keduanya telah muncul sebagai pemimpin dalam mempromosikan inovasi dan pengembangan teknologi untuk pendidikan Indonesia.
