@@ -8,13 +8,13 @@ Artificial Intelligence (AI) adalah kemampuan mesin untuk melakukan tugas-tugas 
 
 Pemahaman tentang Artificial Intelligence (AI) sangat penting karena AI memiliki potensi untuk mengubah banyak aspek kehidupan manusia di masa depan. Beberapa alasan penting untuk mempelajari AI adalah sebagai berikut:
 
-Kemampuan untuk mengoptimalkan proses bisnis: Dalam berbagai industri, AI dapat digunakan untuk meningkatkan efisiensi dan mengoptimalkan proses bisnis. Contohnya, dalam produksi, AI dapat digunakan untuk memantau dan memperbaiki mesin, atau dalam manajemen rantai pasok, AI dapat membantu dalam peramalan permintaan dan pengelolaan persediaan.
+* Kemampuan untuk mengoptimalkan proses bisnis: Dalam berbagai industri, AI dapat digunakan untuk meningkatkan efisiensi dan mengoptimalkan proses bisnis. Contohnya, dalam produksi, AI dapat digunakan untuk memantau dan memperbaiki mesin, atau dalam manajemen rantai pasok, AI dapat membantu dalam peramalan permintaan dan pengelolaan persediaan.
 
-Perbaikan pengambilan keputusan: Dengan kemampuan AI dalam mengambil data dan mengekstrak wawasan, AI dapat membantu dalam pengambilan keputusan yang lebih baik dan lebih cepat dalam berbagai situasi, seperti di bidang kesehatan, keuangan, dan pemerintahan.
+* Perbaikan pengambilan keputusan: Dengan kemampuan AI dalam mengambil data dan mengekstrak wawasan, AI dapat membantu dalam pengambilan keputusan yang lebih baik dan lebih cepat dalam berbagai situasi, seperti di bidang kesehatan, keuangan, dan pemerintahan.
 
-Pengembangan teknologi masa depan: AI juga merupakan dasar bagi banyak teknologi masa depan, seperti mobil otonom, robotika, dan Internet of Things (IoT). Pemahaman tentang AI sangat penting dalam mengembangkan teknologi ini dan memastikan kemajuan teknologi yang aman dan bertanggung jawab.
+* Pengembangan teknologi masa depan: AI juga merupakan dasar bagi banyak teknologi masa depan, seperti mobil otonom, robotika, dan Internet of Things (IoT). Pemahaman tentang AI sangat penting dalam mengembangkan teknologi ini dan memastikan kemajuan teknologi yang aman dan bertanggung jawab.
 
-Menyediakan peluang karir yang menjanjikan: AI merupakan salah satu bidang dengan pertumbuhan tercepat dalam industri teknologi. Pemahaman tentang AI dapat membuka peluang karir yang menjanjikan, seperti data scientist, machine learning engineer, dan AI researcher.
+* Menyediakan peluang karir yang menjanjikan: AI merupakan salah satu bidang dengan pertumbuhan tercepat dalam industri teknologi. Pemahaman tentang AI dapat membuka peluang karir yang menjanjikan, seperti data scientist, machine learning engineer, dan AI researcher.
 
 Dalam ringkasan, pemahaman tentang AI sangat penting dalam mengoptimalkan bisnis, pengambilan keputusan, pengembangan teknologi masa depan, dan menyediakan peluang karir yang menjanjikan.
 
@@ -28,13 +28,13 @@ Machine learning adalah sub-bidang AI yang melibatkan penggunaan algoritma untuk
 
 Pemahaman tentang machine learning menjadi semakin penting karena teknologi ini semakin banyak digunakan dalam berbagai bidang, seperti kesehatan, keuangan, pemasaran, dan industri lainnya. Berikut adalah beberapa alasan mengapa penting untuk mempelajari machine learning:
 
-Meningkatkan efisiensi: Machine learning dapat membantu meningkatkan efisiensi dalam banyak aspek kehidupan, baik dalam bisnis maupun layanan publik. Contohnya, dalam bidang kesehatan, machine learning dapat membantu dalam diagnosa dan perawatan pasien, sehingga mempercepat pengambilan keputusan dan meminimalkan kesalahan manusia.
+* Meningkatkan efisiensi: Machine learning dapat membantu meningkatkan efisiensi dalam banyak aspek kehidupan, baik dalam bisnis maupun layanan publik. Contohnya, dalam bidang kesehatan, machine learning dapat membantu dalam diagnosa dan perawatan pasien, sehingga mempercepat pengambilan keputusan dan meminimalkan kesalahan manusia.
 
-Memperbaiki kualitas produk dan layanan: Dengan mempelajari machine learning, kita dapat mengembangkan model dan algoritma yang dapat memperbaiki kualitas produk dan layanan. Misalnya, dalam bidang keuangan, machine learning dapat membantu dalam analisis risiko dan penentuan kelayakan kredit, sehingga meminimalkan risiko keuangan bagi institusi keuangan.
+* Memperbaiki kualitas produk dan layanan: Dengan mempelajari machine learning, kita dapat mengembangkan model dan algoritma yang dapat memperbaiki kualitas produk dan layanan. Misalnya, dalam bidang keuangan, machine learning dapat membantu dalam analisis risiko dan penentuan kelayakan kredit, sehingga meminimalkan risiko keuangan bagi institusi keuangan.
 
-Meningkatkan pengalaman pengguna: Machine learning juga dapat digunakan untuk meningkatkan pengalaman pengguna di berbagai produk dan layanan. Contohnya, dalam aplikasi media sosial, machine learning dapat digunakan untuk menyarankan konten dan teman yang relevan bagi pengguna.
+* Meningkatkan pengalaman pengguna: Machine learning juga dapat digunakan untuk meningkatkan pengalaman pengguna di berbagai produk dan layanan. Contohnya, dalam aplikasi media sosial, machine learning dapat digunakan untuk menyarankan konten dan teman yang relevan bagi pengguna.
 
-Membuka peluang karir yang menjanjikan: Machine learning adalah salah satu bidang teknologi yang berkembang dengan cepat, sehingga mempelajari machine learning dapat membuka peluang karir yang menjanjikan, seperti data scientist, machine learning engineer, dan AI researcher.
+* Membuka peluang karir yang menjanjikan: Machine learning adalah salah satu bidang teknologi yang berkembang dengan cepat, sehingga mempelajari machine learning dapat membuka peluang karir yang menjanjikan, seperti data scientist, machine learning engineer, dan AI researcher.
 
 ![AdeptMessyBass-size_restricted](https://user-images.githubusercontent.com/85488433/227638503-57dc85e0-636c-4c7c-9358-d281ea15b02f.gif)
 
@@ -60,10 +60,10 @@ Deep learning adalah sub-bidang machine learning yang mengandalkan jaringan sara
 
 Pemahaman tentang deep learning menjadi semakin penting karena teknologi ini semakin banyak digunakan dalam berbagai bidang, seperti otomotif, kesehatan, dan pemerintahan. Berikut adalah beberapa alasan mengapa penting untuk mempelajari deep learning:
 
-Meningkatkan akurasi prediksi: Deep learning dapat membantu meningkatkan akurasi prediksi dalam berbagai tugas yang kompleks, seperti pengenalan gambar, suara, dan bahasa alami. Dengan mempelajari deep learning, kita dapat mengembangkan model dan algoritma yang lebih canggih untuk meningkatkan akurasi prediksi.
+* Meningkatkan akurasi prediksi: Deep learning dapat membantu meningkatkan akurasi prediksi dalam berbagai tugas yang kompleks, seperti pengenalan gambar, suara, dan bahasa alami. Dengan mempelajari deep learning, kita dapat mengembangkan model dan algoritma yang lebih canggih untuk meningkatkan akurasi prediksi.
 
-Mengurangi ketergantungan pada manusia: Dalam beberapa industri, deep learning dapat digunakan untuk mengurangi ketergantungan pada manusia dalam melakukan tugas yang berulang-ulang dan memakan waktu, seperti pengawasan kualitas dan analisis data. Dengan mempelajari deep learning, kita dapat mengembangkan mesin yang lebih mandiri dan efisien dalam melakukan tugas-tugas tersebut.
+* Mengurangi ketergantungan pada manusia: Dalam beberapa industri, deep learning dapat digunakan untuk mengurangi ketergantungan pada manusia dalam melakukan tugas yang berulang-ulang dan memakan waktu, seperti pengawasan kualitas dan analisis data. Dengan mempelajari deep learning, kita dapat mengembangkan mesin yang lebih mandiri dan efisien dalam melakukan tugas-tugas tersebut.
 
-Meningkatkan efisiensi: Deep learning dapat membantu meningkatkan efisiensi dalam banyak aspek kehidupan, seperti otomotif dan manufaktur. Contohnya, dalam otomotif, deep learning dapat digunakan untuk mengembangkan mobil otonom yang lebih aman dan efisien.
+* Meningkatkan efisiensi: Deep learning dapat membantu meningkatkan efisiensi dalam banyak aspek kehidupan, seperti otomotif dan manufaktur. Contohnya, dalam otomotif, deep learning dapat digunakan untuk mengembangkan mobil otonom yang lebih aman dan efisien.
 
-Membuka peluang karir yang menjanjikan: Deep learning adalah salah satu bidang teknologi yang berkembang dengan cepat, sehingga mempelajari deep learning dapat membuka peluang karir yang menjanjikan, seperti machine learning engineer, deep learning researcher, dan data scientist.
+* Membuka peluang karir yang menjanjikan: Deep learning adalah salah satu bidang teknologi yang berkembang dengan cepat, sehingga mempelajari deep learning dapat membuka peluang karir yang menjanjikan, seperti machine learning engineer, deep learning researcher, dan data scientist.
