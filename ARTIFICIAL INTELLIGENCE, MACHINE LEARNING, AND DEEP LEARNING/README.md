@@ -1,3 +1,13 @@
+# Introduction
+
+* AI is a field of study that creates computer systems that mimic the human ability to solve problems and make decisions.
+
+* ML is a branch of AI that uses algorithms and statistical models to develop automatic learning capabilities on computer systems.
+
+* DL is an ML technique that uses a multi-layered neural network to learn complex and abstract features of data.
+
+All three are used in areas such as natural language processing, image recognition, speech recognition and business decision making. AI, ML and DL will continue to develop and make a positive contribution to human life in the future.
+
 # Artificial Intelligence
 
 ![giphy (30)](https://user-images.githubusercontent.com/85488433/227636715-5baaf314-c087-4a7a-8683-93d0ef2863b7.gif)
