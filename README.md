@@ -6,10 +6,10 @@
 
 
 
-Orbit Future Academy didirikan untuk meningkatkan kualitas hidup melalui inovasi, pendidikan, dan keterampilan pelatihan.
+Orbit Future Academy was founded to improve the quality of life through innovation, education and skills training.
 
-Merek Orbit merupakan kelanjutan dari warisan almarhum Dr. Hasri Ainun Habibie dan Prof. Dr. Ing. BJ Habibie , presiden ketiga Republik Indonesia. Keduanya telah muncul sebagai pemimpin dalam mempromosikan inovasi dan pengembangan teknologi untuk pendidikan Indonesia.
+The Orbit brand is a continuation of the legacy of the late Dr. Hasri Ainun Habibie and Prof. Dr. ing. BJ Habibie, the third president of the Republic of Indonesia. Both have emerged as leaders in promoting technological innovation and development for Indonesian education.
 
-Diklat Kementrian Pendidikan, Kebudayaan, Riset dan Teknologi No.Reg:(SK Vokasi) No: 104/D/HK.02.06/2021
+Ministry of Education, Culture, Research and Technology Training No.Reg:(Vocational Decree) No: 104/D/HK.02.06/2021
 
-AI Mastery merupakan program pelatihan Artificial Intelligence secara online yang bertujuan memperkenalkan teknologi AI ke pelajar dan memberikan kesempatan kepada mereka untuk mengaplikasikannya dengan menyelesaikan project berbasis AI, sehingga dapat menghasilkan suatu produk yang memiliki dampak sosial bagi komunitas mereka dan masyarakat umum dengan menitikberatkan kepada Data Science, Natural Language Processing, atau Computer Vision.
+AI Mastery is an online Artificial Intelligence training program that aims to introduce AI technology to students and provide opportunities for them to apply it by completing AI-based projects, so they can produce a product that has a social impact on their community and the general public by focusing on Data Science, Natural Language Processing, or Computer Vision.
