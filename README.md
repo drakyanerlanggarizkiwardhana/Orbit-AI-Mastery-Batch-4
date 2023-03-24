@@ -12,7 +12,12 @@ Merek Orbit merupakan kelanjutan dari warisan almarhum Dr. Hasri Ainun Habibie d
 
 Diklat Kementrian Pendidikan, Kebudayaan, Riset dan Teknologi No.Reg:(SK Vokasi) No: 104/D/HK.02.06/2021
 
+AI Mastery merupakan program pelatihan Artificial Intelligence secara online yang bertujuan memperkenalkan teknologi AI ke pelajar dan memberikan kesempatan kepada mereka untuk mengaplikasikannya dengan menyelesaikan project berbasis AI, sehingga dapat menghasilkan suatu produk yang memiliki dampak sosial bagi komunitas mereka dan masyarakat umum dengan menitikberatkan kepada Data Science, Natural Language Processing, atau Computer Vision.
 
 
-
-AI Mastery merupakan program pelatihan Artificial Intelligence secara online yang bertujuan memperkenalkan teknologi AI ke pelajar dan memberikan kesempatan kepada mereka untuk mengaplikasikannya dengan menyelesaikan project berbasis AI, sehingga dapat menghasilkan suatu produk yang memiliki dampak sosial bagi komunitas mereka dan masyarakat umum dengan menitikberatkan kepada Data Science, Natural Language Processing, atau Computer Vision. 
+ARTIFICIAL INTELLIGENCE, MACHINE LEARNING, AND DEEP LEARNING
+DATA SCIENCE
+COMPUTER VISION
+Natural Language Processing
+Reinforcement Learning
+Deployment
