@@ -1,3 +1,5 @@
+# Artificial Intelligence
+
 ![giphy (30)](https://user-images.githubusercontent.com/85488433/227636715-5baaf314-c087-4a7a-8683-93d0ef2863b7.gif)
 
 ![giphy (1)](https://user-images.githubusercontent.com/85488433/227642926-403650a5-145b-4ba9-8668-a1493f5e42ae.gif)
@@ -18,6 +20,8 @@ Pemahaman tentang Artificial Intelligence (AI) sangat penting karena AI memiliki
 
 Dalam ringkasan, pemahaman tentang AI sangat penting dalam mengoptimalkan bisnis, pengambilan keputusan, pengembangan teknologi masa depan, dan menyediakan peluang karir yang menjanjikan.
 
+# Machine Learning
+
 ![giphy (32)](https://user-images.githubusercontent.com/85488433/227637301-25127c0e-b48f-4f76-825c-030f70a6c445.gif)
 
 ![BoldEasygoingJohndory](https://user-images.githubusercontent.com/85488433/227642496-17b6af98-ae4f-49fd-afcc-fa1f71b196dd.gif)
@@ -35,6 +39,8 @@ Pemahaman tentang machine learning menjadi semakin penting karena teknologi ini 
 * Meningkatkan pengalaman pengguna: Machine learning juga dapat digunakan untuk meningkatkan pengalaman pengguna di berbagai produk dan layanan. Contohnya, dalam aplikasi media sosial, machine learning dapat digunakan untuk menyarankan konten dan teman yang relevan bagi pengguna.
 
 * Membuka peluang karir yang menjanjikan: Machine learning adalah salah satu bidang teknologi yang berkembang dengan cepat, sehingga mempelajari machine learning dapat membuka peluang karir yang menjanjikan, seperti data scientist, machine learning engineer, dan AI researcher.
+
+# Deep Learning
 
 ![AdeptMessyBass-size_restricted](https://user-images.githubusercontent.com/85488433/227638503-57dc85e0-636c-4c7c-9358-d281ea15b02f.gif)
 
