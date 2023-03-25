@@ -14,8 +14,6 @@ All three are used in areas such as natural language processing, image recogniti
 
 ![giphy (1)](https://user-images.githubusercontent.com/85488433/227642926-403650a5-145b-4ba9-8668-a1493f5e42ae.gif)
 
-![giphy (4)](https://user-images.githubusercontent.com/85488433/227642963-d1d930b5-9856-462f-96db-96acf3f32f66.gif)
-
 Artificial Intelligence (AI) adalah kemampuan mesin untuk melakukan tugas-tugas yang membutuhkan kecerdasan manusia, seperti pengambilan keputusan, pengenalan suara atau gambar, dan bahasa alami. AI mencakup berbagai teknologi, seperti machine learning dan deep learning.
 
 Pemahaman tentang Artificial Intelligence (AI) sangat penting karena AI memiliki potensi untuk mengubah banyak aspek kehidupan manusia di masa depan. Beberapa alasan penting untuk mempelajari AI adalah sebagai berikut:
