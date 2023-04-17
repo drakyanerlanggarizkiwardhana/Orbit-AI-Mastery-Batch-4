@@ -1,0 +1,15 @@
+body {
+	background-color: rgba(0, 0, 200, 0.9);
+}
+
+h2 {
+	color: gray;
+}
+
+p {
+	color: yellow;
+}
+
+a {
+	color: red;
+}
