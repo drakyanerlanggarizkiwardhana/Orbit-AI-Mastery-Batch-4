@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!-- WebDev 10 : HTML Input  -->
+<html>
+	<head>
+		<title>OFA - AIM 3 - WebDev</title>
+	</head>
+	<body>
+		<!-- Headings -->
+		<h1>HTML Input</h1>
+		
+		<form>
+			<!-- Input Text -->
+			<label for="input_text">Input Tulisan :</label><br>
+			<input type="text" id="input_text" name="input_text"><br><br>
+			
+			<!-- Input Password -->
+			<label for="input_password">Input Sandi :</label><br>
+			<input type="password" id="input_password" name="input_password"><br><br>
+			
+			<!-- Input Number -->
+			<label for="input_number">Input Angka :</label><br>
+			<input type="number" id="input_number" name="input_number"><br><br>
+			
+			<!-- Input Date -->
+			<label for="input_date">Input Tanggal :</label><br>
+			<input type="date" id="input_date" name="input_date"><br><br>
+			
+			<!-- Input Color -->
+			<label for="input_color">Input Warna :</label><br>
+			<input type="color" id="input_color" name="input_color"><br><br>
+			
+			<!-- Input File -->
+			<label for="input_file">Input File :</label><br>
+			<input type="file" id="input_file" name="input_file"><br><br>
+			
+			<!-- Input Radio Buttons -->
+			<p>Input Radio Buttons :</p>
+			<input type="radio" id="input_radio_R1" name="input_radio" value="Pilihan_R1">
+			<label for="input_radio_R1">Pilihan R1</label><br>
+			
+			<input type="radio" id="input_radio_R2" name="input_radio" value="Pilihan_R2">
+			<label for="input_radio_R2">Pilihan R2</label><br>
+			
+			<input type="radio" id="input_radio_R3" name="input_radio" value="Pilihan_R3">
+			<label for="input_radio_R3">Pilihan R3</label><br><br>
+			
+			<!-- Input Checkboxes -->
+			<p>Input Checkboxes :</p>
+			<input type="checkbox" id="input_checkbox_C1" name="input_checkbox" value="Pilihan_C1">
+			<label for="input_checkbox_C1">Pilihan C1</label><br>
+			
+			<input type="checkbox" id="input_checkbox_C2" name="input_checkbox" value="Pilihan_C2">
+			<label for="input_checkbox_C2">Pilihan C2</label><br>
+			
+			<input type="checkbox" id="input_checkbox_C3" name="input_checkbox" value="Pilihan_C3">
+			<label for="input_checkbox_C3">Pilihan C3</label><br><br>
+			
+			<!-- Button -->
+			<input type="button" onclick="tampilkan_nilai()" value="Tampilkan Nilai!"><br><br>
+			
+			<!-- Reset -->
+			<input type="reset" value="Reset">
+		</form>
+		
+		<!-- Javascript -->
+		<script>
+		// Fungsi untuk Mengambil Nilai dari Radio Buttons
+		function getRadioValue(radio_name) {
+            var element = document.getElementsByName(radio_name)
+			var value_radio = ""
+              
+            for(i = 0; i < element.length; i++) {
+                if(element[i].checked) {
+					value_radio = element[i].value
+				}
+            }
+			
+			return value_radio
+        }
+		
+		// Fungsi untuk Mengambil Nilai dari Checkboxes
+		function getCheckboxesValue(checkboxes_name) {
+            var element = document.getElementsByName(checkboxes_name);
+			var value_checkboxes = ""
+			 
+            for(i = 0; i < element.length; i++) {
+                if(element[i].checked) {
+					value_checkboxes += element[i].value
+					if (i != element.length-1) {
+						value_checkboxes += ","
+					}
+				}
+            }
+			
+			return value_checkboxes
+        }
+		
+		// Fungsi Tambilkan Nilai
+		function tampilkan_nilai() {
+			var nilai_input_text       = document.getElementById("input_text").value
+			var nilai_input_password   = document.getElementById("input_password").value
+			var nilai_input_number     = document.getElementById("input_number").value
+			var nilai_input_date       = document.getElementById("input_date").value
+			var nilai_input_color      = document.getElementById("input_color").value
+			var nilai_input_file       = document.getElementById("input_file").value
+			var nilai_input_radio      = getRadioValue("input_radio")
+			var nilai_input_checkboxes = getCheckboxesValue("input_checkbox")
+			
+			// Tampilkan Nilai dengan Alert Box
+			pesan = "Nilai Input Text : "       + nilai_input_text       + '\n' +
+			        "Nilai Input Password : "   + nilai_input_password   + '\n' + 
+					"Nilai Input Angka : "      + nilai_input_number     + '\n' + 
+					"Nilai Input Tanggal : "    + nilai_input_date       + '\n' + 
+					"Nilai Input Warna : "      + nilai_input_color      + '\n' + 
+					"Nilai Input File : "       + nilai_input_file       + '\n' +
+					"Nilai Input Radio : "      + nilai_input_radio      + '\n' +
+					"Nilai Input Checkboxes : " + nilai_input_checkboxes + '\n' 
+			
+			alert(pesan)
+		}
+		</script>
+	</body>
+</html>
