@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Judul Halaman -->
+	<title>Orbit Future Academy</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- Icon -->
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+	
+	<!-- CSS -->
+	<link rel="stylesheet" href={{ url_for('static', filename='/css/bootstrap.min.css') }} type="text/css">
+	<link rel="stylesheet" href={{ url_for('static', filename='/css/client_side.css') }}  type="text/css">
+	
+	<!-- JavaScript -->
+	<script src={{ url_for('static', filename='/js/jquery_3.6.0.min.js') }} ></script>
+	<script src={{ url_for('static', filename='/js/bootstrap_3.4.1.min.js') }} ></script>
+</head>
+
+<body id="halamanku" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+	<!-- Navigation Bar -->
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			
+			<!-- Logo -->
+			<div class="navbar-header">
+				<img src={{ url_for('static', filename='/images/orbit_logo.jpg') }} alt="Orbit Logo" 
+				width="50" height="50" align="left">
+				<a class="navbar-brand" href="#halamanku">&#160; Orbit Future Academy</a>
+			</div>
+			
+			<!-- Daftar Halaman -->
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#informasi">INFORMASI</a></li>
+					<li><a href="#aplikasi">APLIKASI</a></li>
+					<li><a href="#anggotaKelompok">ANGGOTA KELOMPOK</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Bagian Halaman (Informasi) -->
+	<div id="informasi" class="container-fluid">
+		<br>
+		<br>
+		<div class="row">
+			<div class="col-sm-6">
+				<!-- Deskripsi Aplikasi -->
+				<h2>SAT-PAM</h2>
+				<h4>Sms Aman Tanpa sPAM</h4><br>
+				<p style="text-align: justify;text-justify: inter-word;">
+					Aplikasi ini dibuat khusus untuk mendeteksi sms spam seperti penipuan atau <i>fraud</i> 
+					yang banyak meresahkan masyarakat. SMS yang masuk ke perangkat pengguna akan terlebih 
+					dahulu diklasifikasi apakah pesan tersebut adalah pesan wajar, pesan promo, ataupun pesan penipuan.
+					Jika ditemukan pesan singkat yang berisi penipuan, aplikasi ini akan memberi tahu pengguna untuk 
+					berhati-hati terhadap pesan tersebut. Dengan SAT-PAM, pengguna dapat merasa aman karena terhindar
+					dari sms yang berisi pesan penipuan. 
+				</p>
+			    <br>
+
+				<!-- Tombol Mulai -->
+				<nav id="navgo" class="navbar" style="background-color:#ffffff;z-index: 0;">
+					<ul class="nav nav-pills">
+						<li class="nav-item">
+							<a class="btn btn-default btn-lg" href="#aplikasi" style="background-color:#28ace5">Mulai</a>
+						</li>
+					</ul>
+				</nav>
+
+			</div>
+			<div class="col-sm-6">
+				<br>
+				<br>
+				<!-- Gambar Deskripsi Aplikasi -->
+				<img src={{ url_for('static', filename='/images/app-display.JPG') }} width="500" ></img>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bagian Halaman (Aplikasi) -->
+	<div id="aplikasi" data-bs-spy="scroll" data-bs-target="#navgo" data-bs-offset="0" class="scrollspy-example" tabindex="0">
+		<br><br>
+		<div class="row">
+			<div class="col-sm-6">
+				<!-- HP 1 (Oknum) -->
+				<div class="phone_bg1">
+
+					<br>
+					<br>
+					  
+					<div class="chat-box1">
+						<!-- Header 1 (Oknum) -->
+						<div class="chat-box-header1">Oknum</div>
+						
+						<div class="chat-box-body1">
+							<div class="chat-box-overlay1"></div>
+							<div class="chat-logs1">
+								<!-- Chat Log 1 (Oknum) -->
+							</div>
+						</div>
+						
+						<div class="chat-input1">      
+							<form>
+								<!-- Input Chat 1 (Oknum) -->
+								<input type="text" id="chat-input1" placeholder="Kirim pesan singkat ..."/>
+								
+								<!-- Tombol Send 1 (Oknum) -->
+								<button type="submit" class="chat-submit1" id="chat-submit1"><i class="material-icons">send</i></button>
+							</form>      
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-6">
+				<!-- HP 2 (Anda) -->
+				<div class="phone_bg2">
+
+					<br>
+					<br>
+					  
+					<div class="chat-box2">
+						<!-- Header 2 (Anda) -->
+						<div class="chat-box-header2">Anda</div>
+						
+						<div class="chat-box-body2">
+							<div class="chat-box-overlay2"></div>
+							<div class="chat-logs2">
+								<!-- Chat Log 2 (Anda) -->
+							</div>
+						</div>
+						
+						<div class="chat-input2">      
+							<form>
+								<!-- Input Chat 2 (Anda) -->
+								<input type="text" id="chat-input2" placeholder="Kirim pesan singkat ..."/>
+								
+								<!-- Tombol Send 2 (Anda) -->
+								<button type="submit" class="chat-submit2" id="chat-submit2"><i class="material-icons">send</i></button>
+							</form>      
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bagian Halaman (Anggota Kelompok) -->
+	<div id="anggotaKelompok" class="container-fluid text-center">
+		<br>
+		<h2>ANGGOTA KELOMPOK</h2>
+		<h4>Tim Deployment dan Tim NLP</h4>
+		<br>
+		<div class="row slideanim">
+			<div class="col-sm-4">
+				<span class="glyphicon glyphicon-user logo-small"></span>
+				<h4>BUDI</h4>
+				<p>Universitas Sumatera</p>
+			</div>
+			<div class="col-sm-4">
+				<span class="glyphicon glyphicon-user logo-small"></span>
+				<h4>AYU</h4>
+				<p>Universitas Jawa dan Bali</p>
+			</div>
+			<div class="col-sm-4">
+				<span class="glyphicon glyphicon-user logo-small"></span>
+				<h4>TONO</h4>
+				<p>Universitas Kalimantan</p>
+			</div>
+		</div>
+	    <br>
+	    <div class="row slideanim">
+			<div class="col-sm-6">
+				<span class="glyphicon glyphicon-user logo-small"></span>
+				<h4>PUTRA</h4>
+				<p>Universitas Sulawesi</p>
+			</div>
+			<div class="col-sm-6">
+				<span class="glyphicon glyphicon-user logo-small"></span>
+				<h4>PUTRI</h4>
+				<p>Universitas Kepulauan Nusa, Maluku dan Papua</p>
+			</div>
+	    </div>
+	</div>
+
+	<!-- Footer -->
+	<footer class="container-fluid text-center">
+		<a href="#halamanku" title="To Top">
+			<span class="glyphicon glyphicon-chevron-up"></span>
+		</a>
+		<p>Orbit Future Academy <br> <a href="https://orbitfutureacademy.id/">orbitfutureacademy.id</a></p>
+	</footer>
+
+	<!-- JavaScript untuk Animasi Scroll dan Prediksi Model -->
+	<script  src={{ url_for('static', filename='/js/client_side.js') }}></script>
+
+</body>
+</html>
