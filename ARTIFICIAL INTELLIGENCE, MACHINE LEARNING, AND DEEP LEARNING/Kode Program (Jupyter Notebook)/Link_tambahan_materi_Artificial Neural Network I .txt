@@ -1,0 +1,40 @@
+Berikut adalah link berupa PPT, sumber youtube, dan juga disertakan link dataset dari Kagglem, dataset bisa dipakai untuk tugas student.
+
+
+# Neural Network in Python untuk XOR problem
+
+## Refrensi algoritma backpropagation (Neural network tutorial)
+- The back-propagation algorithm (Part 1) : https://youtu.be/aVId8KMsdUU
+- Link PPT part 1: https://www.dropbox.com/s/z5bz0cw0boxxon1/BackPropagation.pdf?dl=0
+- The back-propagation algorithm (Part 2) : https://youtu.be/zpykfC4VnpM
+- Ebook: https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf
+## Refrensi teori dasar Forward Pass dan Backpropagation (Vectorize BackProp Tutorial)
+- Forward Pass : https://youtu.be/Oe-qmOYr8cY
+- Computing Deltas : https://youtu.be/-l9BdZsopYI
+- Weight Deltas : https://youtu.be/nOCaFkh4NSs
+
+## Refrensi langkah-langkah ngoding pakai python
+- Ch 1 Init : https://youtu.be/XqRUHEeiyCs
+- Ch 2 Running the network : https://youtu.be/ra_s5iZ9Al4
+- Ch 3.1 Training the Network (Part 1) : https://youtu.be/Ku7D-F6xOUM
+- Ch 3.2 Training the Network (Part 2) : https://youtu.be/wCZG1Sn3XhE
+- Ch 4 Adding momentum : https://youtu.be/v8be6yPsl2s
+- Ch 5 Transfer Functions : https://youtu.be/o89JsE7symY
+
+Bacaan tambahan ANN
+- https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+- https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/
+
+Implementasi ANN
+- https://github.com/SouravAggarwal/Neural-Network-from-Scratch
+- https://github.com/vuptran/introduction-to-neural-networks/blob/master/intro_neural_network.ipynb
+
+Dataset:
+- https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset
+
+Note: Dataset ini bisa dijadikan tugas untuk student
+
+
+Link transfer learning:
+1. https://www.kaggle.com/code/aman10kr/cats-and-dogs-using-resnet-scratch-200-epochs/notebook
+
